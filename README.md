@@ -22,3 +22,16 @@ como clonar o repo e rodar:
 5. pip install pygame
 
 6. python pacman.py
+
+
+Ou caso queira baixar o ZIP 
+
+1. abrir a pasta no CMD
+
+2. python -m venv venv
+
+3. venv\Scripts\activate
+
+4. pip install pygame
+
+5. python pacman.py
